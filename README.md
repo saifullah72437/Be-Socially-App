@@ -1,6 +1,8 @@
 # Be-Socially-App
 Be Socially is a social media app which I Developed in flutter, It have profile segment, notification segment, like, comment and share segment and many more functionalities its also live on Google play store
 
+## App Link: https://play.google.com/store/apps/details?id=com.saif.besocially
+
 ## Screen Shot 1
 
 
